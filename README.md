@@ -32,7 +32,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 Utilize o **Live Server** ou abra no navegador web
 ```cl
-no arquivo index.html
+index.html
 
 ```
 

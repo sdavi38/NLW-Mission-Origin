@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="NLW"  height="130" width="400" title="templat" src=".github/nlw.png" />
+  <img alt="NLW"  height="200" width="400" title="templat" src=".github/mobile.png" />
 </h1>
 
 <p align="center">
@@ -9,62 +9,32 @@
 </p>
 
 
-![cover](.github/Home.png?style=flat)
+![cover](.github/capa.png?style=flat)
 
 
 ## 💻 Projeto
-Aplicativo para lhe ajudar a conectar-se e enviar mensagens istantanea na plataforma.
+Cracha virtual de apresentação .
 
 
 ## :hammer_and_wrench: Features 
 
--   [ ] Autenticação Social com Github
--   [ ] Obtém perfil do usuário (username e avatar);
+-   [ ] HTML
+-   [ ] CSS
+-   [ ] Google-Fonts
 
-
-
-## ✨ Tecnologias
-
--   [ ] NodeJS
--   [ ] Express
--   [ ] Axios
--   [ ] Prisma
--   [ ] Jsonwebtoken
--   [ ] Typescript
--   [ ] Soket-io
- 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1031699316177416916). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/XO94jxdkK17zewrAFZ0DjG/%5BNLW-Heat---Mission%3A-Origin%5D-DoWhile2021-(Community)?node-id=61313%3A4661). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
 
 ## Executando o projeto
 
-Utilize o **yarn** ou o **npm install** para instalar as dependências do projeto.
-Em seguida, inicie o projeto.
-
+Utilize o **Live Server** ou abra no navegador web
 ```cl
-yarn dev
-ou
-npm dev
-```
-
-Lembre-se de criar o seu App no servidor do Discord para obter as credencias de autenticação. Em seguida, defina no arquivo .env as configurações do seu App (remova o example do arquivo .env.example).
- 
- ```cl
-
-GITHUB_CLIENT_ID=
-GITHUB_CLIENT_SECRET=
-JWT_SECRET=
-PORT=3333
+no arquivo index.html
 
 ```
-
-
-## 📄 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 <br />
 
